@@ -17,13 +17,13 @@ Currently, I work as a Microbiologist in the Vaccine Production Unit at FnF Phar
 
 **M.S. in Veterinary Public Health and Food Hygiene**
 
-Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh | 2024–2026
+Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh — 2024–2026
 
 CGPA: 3.71/4.00
 
 **Doctor of Veterinary Medicine (DVM)**
 
-Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh | 2018–2024
+Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh — 2018–2024
 
 CGPA: 3.282/4.00
 
@@ -54,11 +54,9 @@ Current research training includes:
 - Molecular docking and molecular dynamics.
 - mRNA vaccine design.
 
-## Professional Experience
-
 **Microbiologist | Vaccine Production Unit**
 
-FnF Pharmaceuticals Ltd., Jhenaidah, Bangladesh | November 2026 – Present
+FnF Pharmaceuticals Ltd., Jhenaidah, Bangladesh — November 2026 – Present
 
 Working with upstream and downstream production processes for poultry viral vaccines, including:
 
