@@ -9,7 +9,7 @@ redirect_from:
 
 I am a veterinarian and early-career researcher with an M.S. in Veterinary Public Health and Food Hygiene from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh.
 
-My research interests lie at the intersection of Veterinary Public Health, Food Safety, Molecular Microbiology, Antimicrobial Resistance, and One Health. My academic and research experience includes bacterial pathogen characterization, mycotoxin contamination in animal feed, molecular diagnostics, and laboratory-based investigations of microbial hazards.
+My research interests lie at the intersection of Veterinary Public Health, Food Safety, Molecular Microbiology, Antimicrobial Resistance, and One Health. My research experience includes bacterial pathogen characterization, mycotoxin contamination in animal feed, molecular diagnostics, and laboratory-based investigations of microbial hazards.
 
 Currently, I work as a Microbiologist in the Vaccine Production Unit at FnF Pharmaceuticals Ltd. I am also undertaking research training at BioLab – Bioinformatics Laboratory, focusing on reverse vaccinology and computational vaccine design.
 
@@ -17,19 +17,21 @@ Currently, I work as a Microbiologist in the Vaccine Production Unit at FnF Phar
 
 **M.S. in Veterinary Public Health and Food Hygiene**
 
-Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh — 2024–2026
+Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
-CGPA: 3.71/4.00
+2024–2026 | CGPA: 3.71/4.00
 
 **Doctor of Veterinary Medicine (DVM)**
 
-Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh — 2018–2024
+Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
-CGPA: 3.282/4.00
+2018–2024 | CGPA: 3.282/4.00
 
 ## Research Experience
 
-**Graduate Research Assistant | HSTU**
+**Graduate Research Assistant**
+
+Hajee Mohammad Danesh Science and Technology University (HSTU)
 
 September 2024 – July 2026
 
@@ -41,11 +43,13 @@ Key research areas included:
 - Prevalence, antibiogram patterns, and virulence gene profiling of feed-borne *Bacillus cereus*.
 - Co-contamination of *Fusarium* mycotoxins and investigation of the biodegradation and biosorption potential of probiotic *Bacillus cereus*.
 
-**Research Intern | BioLab – Bioinformatics Laboratory**
+**Research Intern**
+
+BioLab – Bioinformatics Laboratory
 
 September 2026 – Present
 
-Six-month research internship focused on vaccine designing using reverse vaccinology.
+Six-month research internship focused on vaccine design using reverse vaccinology.
 
 Current research training includes:
 
@@ -54,9 +58,13 @@ Current research training includes:
 - Molecular docking and molecular dynamics.
 - mRNA vaccine design.
 
-**Microbiologist | Vaccine Production Unit**
+## Professional Experience
 
-FnF Pharmaceuticals Ltd., Jhenaidah, Bangladesh — November 2026 – Present
+**Microbiologist – Vaccine Production Unit**
+
+FnF Pharmaceuticals Ltd., Jhenaidah, Bangladesh
+
+November 2026 – Present
 
 Working with upstream and downstream production processes for poultry viral vaccines, including:
 
@@ -88,15 +96,40 @@ Hossain, A., Showrav, M. S. S., Mahmud, H., Purwanti, S., Syamsu, J. A., & Haque
 
 ## Conference Presentation
 
-**Deoxynivalenol Contamination in Commercial Animal Feeds in Northern Bangladesh: Prevalence and Risk Factors.**
+**Deoxynivalenol Contamination in Commercial Animal Feeds in Northern Bangladesh: Prevalence and Risk Factors**
 
 Poster presentation at the 32nd BSVER Annual Scientific Conference (BSVER ASCon XXXII), Bangladesh Agricultural University, Mymensingh, Bangladesh, 7–9 August 2026.
 
 ## Technical Skills
 
-- **Microbiology:** Bacterial isolation and identification, cultural and biochemical assays, fungal culture.
-- **Molecular Biology:** DNA extraction, PCR, agarose gel electrophoresis, virulence-gene profiling.
-- **Antimicrobial Resistance:** Antimicrobial susceptibility testing, MIC/MBC determination, antibiogram profiling.
-- **Mycotoxin Analysis:** ELISA, sample extraction, feed moisture analysis.
-- **Bioinformatics:** Reverse vaccinology, epitope prediction, molecular docking, molecular dynamics, population-coverage analysis.
-- **Research Methods:** Field sampling, survey design, statistical analysis, and risk assessment.
+**Microbiology**
+- Bacterial isolation and identification.
+- Cultural and biochemical assays.
+- Fungal culture.
+
+**Molecular Biology**
+- DNA extraction.
+- PCR and agarose gel electrophoresis.
+- Virulence-gene profiling.
+
+**Antimicrobial Resistance**
+- Antimicrobial susceptibility testing.
+- MIC/MBC determination.
+- Antibiogram profiling.
+
+**Mycotoxin Analysis**
+- ELISA.
+- Sample extraction.
+- Feed moisture analysis.
+
+**Bioinformatics**
+- Reverse vaccinology.
+- Epitope prediction.
+- Molecular docking and molecular dynamics.
+- Population-coverage analysis.
+
+**Research Methods**
+- Field sampling.
+- Survey design.
+- Statistical analysis.
+- Risk assessment.
