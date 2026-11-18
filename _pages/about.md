@@ -19,13 +19,13 @@ Currently, I work as a Microbiologist in the Vaccine Production Unit at FnF Phar
 
 Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
-2024–2026 | CGPA: 3.71/4.00
+2024–2026 • CGPA: 3.71/4.00
 
 **Doctor of Veterinary Medicine (DVM)**
 
 Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh
 
-2018–2024 | CGPA: 3.282/4.00
+2018–2024 • CGPA: 3.282/4.00
 
 ## Research Experience
 
