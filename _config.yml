@@ -36,10 +36,10 @@ author:
   # Academic websites
   academia:
   arxiv:
-  googlescholar:
+  googlescholar:"https://scholar.google.com/citations?user=aFUowpYAAAAJ"
   inspire-hep:
   impactstory:
-  orcid:
+  orcid:"https://orcid.org/0009-0007-3436-1516"
   semantic:
   ssrn:
   pubmed:
@@ -54,7 +54,7 @@ author:
   bluesky:
   facebook:
   instagram:
-  linkedin:
+  linkedin:"amjadvphfh"
   twitter:
   youtube:
 
